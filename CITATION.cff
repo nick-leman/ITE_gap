@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ITE_gap
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mykola
+    family-names: Luhanko
+  - given-names: Illia
+    family-names: Lukin
+  - given-names: Oleksandr Borysenko
+repository-code: 'https://github.com/nick-leman/ITE_gap'
